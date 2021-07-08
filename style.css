@@ -1,0 +1,47 @@
+
+body{
+    background-color: cyan;
+    height: 700px;
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items: center;
+}
+
+.img-container{
+    height: 180px;
+    background-image: url(./images/bg-pattern-card.svg);
+}
+.img-container img{
+    border-radius: 50%;
+    margin-bottom: -70%;
+
+}
+.container{
+    background-color: honeydew;
+height: 220px;
+margin-top: 0px;
+padding-top: 30px;
+
+}
+.card{
+    width: 300px;
+    height: 400px;
+   margin: 10%;
+text-align: center;
+}
+.social{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-evenly;
+    align-items: center;
+}
+
+footer { 
+    font-size: 11px; 
+    text-align: center;
+    padding: 3px;
+ 
+    color: hsl(228, 45%, 44%);
+    margin-bottom: 0px;
+}
