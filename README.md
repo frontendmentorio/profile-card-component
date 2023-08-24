@@ -16,7 +16,7 @@ Your challenge is to build out this profile card component and get it looking as
 
 You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
 
-Want some support on the challenge? [Join our Slack community](https://www.frontendmentor.io/slack) and ask questions in the **#help** channel.
+Want some support on the challenge? [Join our community](https://www.frontendmentor.io/community) and ask questions in the **#help** channel.
 
 ## Where to find everything
 
@@ -43,7 +43,7 @@ Feel free to use any workflow that you feel comfortable with. Below is a suggest
 
 ## Deploying your project
 
-As mentioned above, there are many ways to host your project for free. Our recommend hosts are:
+As mentioned above, there are many ways to host your project for free. Our recommended hosts are:
 
 - [GitHub Pages](https://pages.github.com/)
 - [Vercel](https://vercel.com/)
@@ -69,7 +69,7 @@ Remember, if you're looking for feedback on your solution, be sure to ask questi
 
 There are multiple places you can share your solution:
 
-1. Share your solution page in the **#finished-projects** channel of the [Slack community](https://www.frontendmentor.io/slack). 
+1. Share your solution page in the **#finished-projects** channel of the [community](https://www.frontendmentor.io/community). 
 2. Tweet [@frontendmentor](https://twitter.com/frontendmentor) and mention **@frontendmentor**, including the repo and live URLs in the tweet. We'd love to take a look at what you've built and help share it around.
 3. Share your solution on other social channels like LinkedIn.
 4. Blog about your experience building your project. Writing about your workflow, technical choices, and talking through your code is a brilliant way to reinforce what you've learned. Great platforms to write on are [dev.to](https://dev.to/), [Hashnode](https://hashnode.com/), and [CodeNewbie](https://community.codenewbie.org/).
